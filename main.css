@@ -1,0 +1,34 @@
+h1{
+	font-family: 'Fjalla One', sans-serif;
+}
+body{
+	padding: 10%;
+}
+hr{
+	color:black;
+	width:5%; 
+	float: left;
+	display: block;
+
+
+}
+p{
+	position: relative;
+	bottom: 50px;
+	text-align: right;
+	color: white;
+}
+.inline{
+	display: inline-block;
+}
+img{
+	opacity: 0.5;
+}
+.redes{
+	display: inline-block;
+	width: 30px;
+	height: 30px;
+	opacity: 1;
+}
+
+a{text-decoration: none;}
